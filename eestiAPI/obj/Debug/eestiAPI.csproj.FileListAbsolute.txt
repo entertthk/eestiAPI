@@ -1,0 +1,9 @@
+C:\Users\Laptop\source\repos\eestiAPI\eestiAPI\bin\Debug\eestiAPI.exe.config
+C:\Users\Laptop\source\repos\eestiAPI\eestiAPI\bin\Debug\eestiAPI.exe
+C:\Users\Laptop\source\repos\eestiAPI\eestiAPI\bin\Debug\eestiAPI.pdb
+C:\Users\Laptop\source\repos\eestiAPI\eestiAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Laptop\source\repos\eestiAPI\eestiAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Laptop\source\repos\eestiAPI\eestiAPI\obj\Debug\eestiAPI.csprojAssemblyReference.cache
+C:\Users\Laptop\source\repos\eestiAPI\eestiAPI\obj\Debug\eestiAPI.csproj.CopyComplete
+C:\Users\Laptop\source\repos\eestiAPI\eestiAPI\obj\Debug\eestiAPI.exe
+C:\Users\Laptop\source\repos\eestiAPI\eestiAPI\obj\Debug\eestiAPI.pdb
